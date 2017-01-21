@@ -1,4 +1,4 @@
-# Redux Blog - Udemy Course
+# Redux Blog
 `npm install`
 
 `npm start`
